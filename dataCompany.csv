@@ -1,0 +1,313 @@
+Product;Product.Category;Week;Weekly.Units;Price;Cost;Department;Marketing.Expense;Online.Views;Online.Purchases;Online.Rating
+Conference System;Workspace;1;1750;2399;199;Work Products;25900;576;309;4
+Conference System;Workspace;2;1740;2399;239;Work Products;25360;559;208;3.8
+Conference System;Workspace;3;1730;2399;246;Work Products;26126;485;181;3.8
+Conference System;Workspace;4;1722;2399;252;Work Products;25953;517;258;4
+Conference System;Workspace;5;1710;2399;222;Work Products;26057;578;227;3.6
+Conference System;Workspace;6;1700;2399;210;Work Products;25340;554;198;3.7
+Conference System;Workspace;7;1686;2399;201;Work Products;25606;598;228;4
+Conference System;Workspace;8;1685;2399;217;Work Products;25410;578;242;3.8
+Conference System;Workspace;9;1675;2399;221;Work Products;26103;564;263;3.6
+Conference System;Workspace;10;1665;2399;246;Work Products;25331;509;206;3.7
+Conference System;Workspace;11;1655;2399;224;Work Products;26057;491;206;3.7
+Conference System;Workspace;12;1645;2399;228;Work Products;25273;539;242;3.7
+Conference System;Workspace;13;1640;2399;206;Work Products;25623;578;243;4
+Conference System;Workspace;14;1635;2399;216;Work Products;25732;578;239;3.6
+Conference System;Workspace;15;1627;2399;228;Work Products;25772;492;166;3.9
+Conference System;Workspace;16;1614;2399;201;Work Products;26075;574;164;3.7
+Conference System;Workspace;17;1610;2399;208;Work Products;25756;558;225;3.9
+Conference System;Workspace;18;1598;2399;222;Work Products;25703;511;221;3.8
+Conference System;Workspace;19;1590;2399;205;Work Products;25415;536;190;3.6
+Conference System;Workspace;20;1582;2399;218;Work Products;26189;482;188;4
+Conference System;Workspace;21;1574;2149;236;Work Products;25809;552;234;3.8
+Conference System;Workspace;22;1564;2149;245;Work Products;25304;594;189;3.8
+Conference System;Workspace;23;1560;2149;199;Work Products;25725;510;196;4
+Conference System;Workspace;24;1548;2149;195;Work Products;26109;518;282;3.9
+Conference System;Workspace;25;1537;2149;225;Work Products;25797;481;250;4
+Conference System;Workspace;26;1530;2149;251;Work Products;25865;593;227;3.7
+Conference System;Workspace;27;1540;2149;241;Work Products;31945;794;376;3.6
+Conference System;Workspace;28;1565;2149;226;Work Products;30823;782;407;4
+Conference System;Workspace;29;1569;2149;219;Work Products;30647;806;403;3.9
+Conference System;Workspace;30;1578;2149;254;Work Products;31201;832;373;3.7
+Conference System;Workspace;31;1593;2149;254;Work Products;31904;734;313;3.7
+Conference System;Workspace;32;1619;2149;192;Work Products;32036;826;346;3.6
+Conference System;Workspace;33;1639;2149;228;Work Products;31306;760;332;4
+Conference System;Workspace;34;1660;2149;210;Work Products;30484;722;420;4
+Conference System;Workspace;35;1664;2149;218;Work Products;30444;806;347;3.6
+Conference System;Workspace;36;1674;2149;220;Work Products;31082;780;363;3.9
+Conference System;Workspace;37;1679;2149;251;Work Products;30639;832;421;3.7
+Conference System;Workspace;38;1694;2149;218;Work Products;32019;799;339;3.8
+Conference System;Workspace;39;1707;2149;207;Work Products;31895;790;331;3.6
+Conference System;Workspace;40;1735;2149;242;Work Products;31795;836;485;4
+Conference System;Workspace;41;1740;2149;218;Work Products;32232;805;449;3.8
+Conference System;Workspace;42;1743;2149;215;Work Products;32183;816;347;3.7
+Conference System;Workspace;43;1766;2149;231;Work Products;32233;788;442;3.9
+Conference System;Workspace;44;1774;2149;207;Work Products;31682;799;434;3.6
+Conference System;Workspace;45;1796;2149;222;Work Products;30483;802;457;3.8
+Conference System;Workspace;46;1809;2149;231;Work Products;30429;798;357;3.8
+Conference System;Workspace;47;1829;2149;222;Work Products;30369;744;424;3.7
+Conference System;Workspace;48;1834;2149;212;Work Products;32055;779;416;3.8
+Conference System;Workspace;49;1865;2149;236;Work Products;31023;745;447;3.8
+Conference System;Workspace;50;1877;2149;226;Work Products;30785;775;372;3.8
+Conference System;Workspace;51;1894;2149;208;Work Products;30383;725;480;3.7
+Conference System;Workspace;52;1925;2149;218;Work Products;31453;840;485;3.9
+Fitness Tracker;Personal;1;3000;169;111;Personal Products;2540;1805;1174;4.8
+Fitness Tracker;Personal;2;3007;169;111;Personal Products;2318;1918;1264;4.7
+Fitness Tracker;Personal;3;3008;169;110;Personal Products;2440;1808;1142;4.7
+Fitness Tracker;Personal;4;3010;169;107;Personal Products;2562;1832;1144;4.7
+Fitness Tracker;Personal;5;3066;169;103;Personal Products;2710;2104;1380;4.7
+Fitness Tracker;Personal;6;3137;169;100;Personal Products;2462;2032;1296;4.8
+Fitness Tracker;Personal;7;3217;169;100;Personal Products;2344;2050;1293;4.7
+Fitness Tracker;Personal;8;3262;169;105;Personal Products;2713;2263;1468;4.8
+Fitness Tracker;Personal;9;3316;169;105;Personal Products;2365;2300;1490;4.7
+Fitness Tracker;Personal;10;3359;169;100;Personal Products;2329;2228;1409;4.8
+Fitness Tracker;Personal;11;3382;169;106;Personal Products;2512;2398;1553;4.8
+Fitness Tracker;Personal;12;3446;169;109;Personal Products;2590;2218;1376;4.8
+Fitness Tracker;Personal;13;3472;169;100;Personal Products;2593;2384;1518;4.7
+Fitness Tracker;Personal;14;3553;169;103;Personal Products;2253;2210;1339;4.7
+Fitness Tracker;Personal;15;3648;169;100;Personal Products;2353;2386;1479;4.7
+Fitness Tracker;Personal;16;3737;169;109;Personal Products;2639;2518;1587;4.7
+Fitness Tracker;Personal;17;3763;169;106;Personal Products;2614;2480;1534;4.8
+Fitness Tracker;Personal;18;3811;169;112;Personal Products;2564;2536;1563;4.8
+Fitness Tracker;Personal;19;3881;169;104;Personal Products;2333;2490;1509;4.8
+Fitness Tracker;Personal;20;3966;169;101;Personal Products;2484;2849;1821;4.7
+Fitness Tracker;Personal;21;3940;169;101;Personal Products;2402;2663;1659;4.8
+Fitness Tracker;Personal;22;3908;169;109;Personal Products;2674;2786;1780;4.8
+Fitness Tracker;Personal;23;3899;169;103;Personal Products;2620;2777;1781;4.7
+Fitness Tracker;Personal;24;3895;169;97;Personal Products;2254;2620;1646;4.7
+Fitness Tracker;Personal;25;3824;169;103;Personal Products;2519;2634;1672;4.8
+Fitness Tracker;Personal;26;3805;169;113;Personal Products;2611;2707;1750;4.8
+Fitness Tracker;Personal;27;3764;169;105;Personal Products;2266;2335;1422;4.8
+Fitness Tracker;Personal;28;3734;169;111;Personal Products;2273;2384;1475;4.8
+Fitness Tracker;Personal;29;3721;169;105;Personal Products;2668;2351;1458;4.7
+Fitness Tracker;Personal;30;3653;169;97;Personal Products;2643;2545;1648;4.7
+Fitness Tracker;Personal;31;3634;169;99;Personal Products;2371;2522;1636;4.7
+Fitness Tracker;Personal;32;3568;169;99;Personal Products;2470;2208;1360;4.8
+Fitness Tracker;Personal;33;3523;169;110;Personal Products;2270;2250;1405;4.8
+Fitness Tracker;Personal;34;3457;169;103;Personal Products;2326;2304;1462;4.7
+Fitness Tracker;Personal;35;3410;169;108;Personal Products;2474;2324;1491;4.8
+Fitness Tracker;Personal;36;3386;169;98;Personal Products;2362;2140;1333;4.7
+Fitness Tracker;Personal;37;3350;169;106;Personal Products;2559;2070;1278;4.7
+Fitness Tracker;Personal;38;3330;169;105;Personal Products;2379;2027;1251;4.8
+Fitness Tracker;Personal;39;3319;169;109;Personal Products;2647;2318;1526;4.7
+Fitness Tracker;Personal;40;3313;169;109;Personal Products;2544;2147;1380;4.7
+Fitness Tracker;Personal;41;3323;169;109;Personal Products;2541;2096;1331;4.7
+Fitness Tracker;Personal;42;3356;169;103;Personal Products;2667;2027;1264;4.7
+Fitness Tracker;Personal;43;3358;169;103;Personal Products;2690;2081;1310;4.7
+Fitness Tracker;Personal;44;3364;169;109;Personal Products;2623;2132;1353;4.7
+Fitness Tracker;Personal;45;3365;169;111;Personal Products;2543;2135;1354;4.8
+Fitness Tracker;Personal;46;3394;169;99;Personal Products;2567;2311;1513;4.8
+Fitness Tracker;Personal;47;3412;169;104;Personal Products;2359;2354;1551;4.8
+Fitness Tracker;Personal;48;3427;169;101;Personal Products;2576;2340;1534;4.7
+Fitness Tracker;Personal;49;3448;169;104;Personal Products;2740;2341;1530;4.8
+Fitness Tracker;Personal;50;3472;169;102;Personal Products;2301;2147;1351;4.8
+Fitness Tracker;Personal;51;3503;169;108;Personal Products;2396;2236;1429;4.7
+Fitness Tracker;Personal;52;3532;169;111;Personal Products;2664;2155;1353;4.8
+Laptop;Workspace;1;3601;1750;533;Work Products;51028;2398;1232;3.7
+Laptop;Workspace;2;3637;1750;504;Work Products;52052;2497;1267;3.9
+Laptop;Workspace;3;3683;1750;501;Work Products;50897;2566;1404;3.6
+Laptop;Workspace;4;3682;1750;539;Work Products;51115;2852;1535;3.6
+Laptop;Workspace;5;3687;1750;511;Work Products;51591;2677;1446;3.9
+Laptop;Workspace;6;3687;1750;547;Work Products;50380;2498;1200;3.6
+Laptop;Workspace;7;3738;1750;512;Work Products;50737;2740;1459;3.8
+Laptop;Workspace;8;3756;1750;523;Work Products;50563;2509;1371;3.9
+Laptop;Workspace;9;3785;1750;516;Work Products;51106;2431;1240;3.8
+Laptop;Workspace;10;3812;1750;505;Work Products;52052;2851;1570;3.8
+Laptop;Workspace;11;3898;1750;533;Work Products;52095;2774;1562;4
+Laptop;Workspace;12;3913;1750;531;Work Products;51877;2732;1510;3.7
+Laptop;Workspace;13;3976;1750;536;Work Products;51484;2816;1675;3.8
+Laptop;Workspace;14;4070;1750;507;Work Products;50490;2639;1472;3.7
+Laptop;Workspace;15;4168;1750;550;Work Products;50403;2831;1507;3.7
+Laptop;Workspace;16;4172;1750;532;Work Products;51567;2869;1604;3.7
+Laptop;Workspace;17;4207;1750;513;Work Products;51368;3137;1794;3.8
+Laptop;Workspace;18;4239;1750;516;Work Products;50251;3012;1774;3.8
+Laptop;Workspace;19;4256;1750;546;Work Products;51282;2718;1447;4
+Laptop;Workspace;20;4276;1750;535;Work Products;51512;3064;1785;3.6
+Laptop;Workspace;21;4284;1750;533;Work Products;50698;3180;1833;3.7
+Laptop;Workspace;22;4403;1750;505;Work Products;51932;2656;1472;4
+Laptop;Workspace;23;4403;1750;608;Work Products;52138;2544;1460;3.9
+Laptop;Workspace;24;4501;1750;580;Work Products;51517;2924;1675;3.7
+Laptop;Workspace;25;4618;1750;600;Work Products;51642;2966;1798;3.7
+Laptop;Workspace;26;4639;1750;603;Work Products;52213;3187;1964;3.9
+Laptop;Workspace;27;4748;1750;593;Work Products;50910;2822;1624;4
+Laptop;Workspace;28;4864;1750;582;Work Products;50858;3211;1875;3.7
+Laptop;Workspace;29;4870;1750;591;Work Products;50799;3168;1916;4
+Laptop;Workspace;30;4993;1750;590;Work Products;50883;3107;1795;3.6
+Laptop;Workspace;31;5127;1750;583;Work Products;50855;3124;1870;3.6
+Laptop;Workspace;32;5256;1750;617;Work Products;51711;3610;2261;4
+Laptop;Workspace;33;5326;1750;575;Work Products;50533;3600;2257;3.7
+Laptop;Workspace;34;5404;1750;581;Work Products;51670;3185;1998;3.6
+Laptop;Workspace;35;5493;1750;590;Work Products;50721;3090;1794;4
+Laptop;Workspace;36;5593;1750;594;Work Products;50451;3200;1970;3.7
+Laptop;Workspace;37;5757;1750;605;Work Products;50824;3692;2408;3.7
+Laptop;Workspace;38;5903;1750;593;Work Products;51168;3380;2120;4
+Laptop;Workspace;39;6024;1750;606;Work Products;51756;3139;1983;4
+Laptop;Workspace;40;6163;1925;578;Work Products;52097;3683;2489;3.7
+Laptop;Workspace;41;6296;1925;609;Work Products;50780;4014;2658;3.9
+Laptop;Workspace;42;6424;1925;618;Work Products;51094;3922;2616;3.7
+Laptop;Workspace;43;6477;1925;580;Work Products;50455;3527;2152;3.9
+Laptop;Workspace;44;6537;1925;607;Work Products;50815;3437;2229;3.9
+Laptop;Workspace;45;6622;1925;617;Work Products;51654;3784;2475;3.6
+Laptop;Workspace;46;6760;1925;600;Work Products;51538;3868;2528;3.9
+Laptop;Workspace;47;6933;1925;580;Work Products;51073;3936;2700;3.9
+Laptop;Workspace;48;7129;1925;596;Work Products;50861;3664;2475;3.8
+Laptop;Workspace;49;7175;1925;595;Work Products;51348;3734;2395;3.7
+Laptop;Workspace;50;7293;1925;591;Work Products;51710;3688;2482;3.9
+Laptop;Workspace;51;7451;1925;610;Work Products;51014;4130;2829;3.7
+Laptop;Workspace;52;7544;1925;606;Work Products;51268;4572;3152;4
+Smartphone;Personal;1;2599;899;367;Personal Products;8849;1963;1274;4
+Smartphone;Personal;2;2620;899;376;Personal Products;8361;1789;1188;4
+Smartphone;Personal;3;2686;899;361;Personal Products;8837;1866;1217;3.9
+Smartphone;Personal;4;2728;899;369;Personal Products;8590;2128;1419;4.1
+Smartphone;Personal;5;2737;899;362;Personal Products;8941;2105;1460;4
+Smartphone;Personal;6;2772;899;364;Personal Products;9002;2108;1435;4.1
+Smartphone;Personal;7;2831;899;356;Personal Products;8846;1975;1329;4
+Smartphone;Personal;8;2838;899;375;Personal Products;8494;2005;1299;4.1
+Smartphone;Personal;9;2912;899;368;Personal Products;8566;1838;1249;4
+Smartphone;Personal;10;3012;899;362;Personal Products;8862;2148;1460;4.1
+Smartphone;Personal;11;3110;899;354;Personal Products;9064;2208;1543;3.9
+Smartphone;Personal;12;3207;899;376;Personal Products;8685;2290;1636;3.9
+Smartphone;Personal;13;3222;899;366;Personal Products;8359;2166;1518;3.9
+Smartphone;Personal;14;3230;899;365;Personal Products;9023;2078;1415;4
+Smartphone;Personal;15;3332;899;373;Personal Products;8254;2284;1659;3.9
+Smartphone;Personal;16;3453;899;356;Personal Products;8340;2190;1514;3.9
+Smartphone;Personal;17;3529;899;376;Personal Products;8252;2438;1790;3.9
+Smartphone;Personal;18;3617;899;359;Personal Products;8869;2670;1943;3.9
+Smartphone;Personal;19;3685;899;349;Personal Products;8544;2566;1886;3.9
+Smartphone;Personal;20;3792;899;356;Personal Products;8383;2472;1820;3.9
+Smartphone;Personal;21;3845;899;363;Personal Products;8887;2642;1908;3.9
+Smartphone;Personal;22;3857;899;366;Personal Products;9137;2712;1948;4.1
+Smartphone;Personal;23;3965;899;362;Personal Products;8253;2599;1931;4.1
+Smartphone;Personal;24;4058;899;361;Personal Products;8813;2701;1988;3.9
+Smartphone;Personal;25;4149;899;373;Personal Products;9180;2779;2086;4
+Smartphone;Personal;26;4220;899;356;Personal Products;8572;2854;2128;3.9
+Smartphone;Personal;27;4368;899;352;Personal Products;8858;2765;2020;4.1
+Smartphone;Personal;28;4423;899;358;Personal Products;8670;2994;2309;4.1
+Smartphone;Personal;29;4497;899;368;Personal Products;8363;2953;2174;4
+Smartphone;Personal;30;4509;899;365;Personal Products;8489;2968;2236;4
+Smartphone;Personal;31;4624;899;359;Personal Products;9093;2839;2167;4
+Smartphone;Personal;32;4625;899;352;Personal Products;9143;2795;2057;3.9
+Smartphone;Personal;33;4708;899;354;Personal Products;9157;2983;2279;3.9
+Smartphone;Personal;34;4882;899;350;Personal Products;8871;2897;2185;4
+Smartphone;Personal;35;4990;899;375;Personal Products;8419;3048;2266;4.1
+Smartphone;Personal;36;5001;899;360;Personal Products;9047;3251;2493;3.9
+Smartphone;Personal;37;5146;899;378;Personal Products;8451;3367;2648;3.9
+Smartphone;Personal;38;5256;899;364;Personal Products;9069;3016;2323;4.1
+Smartphone;Personal;39;5450;899;367;Personal Products;8900;3654;2878;4
+Smartphone;Personal;40;5546;899;369;Personal Products;9221;3514;2731;4
+Smartphone;Personal;41;5627;899;373;Personal Products;9112;3698;2902;3.9
+Smartphone;Personal;42;5747;899;371;Personal Products;8952;3253;2503;3.9
+Smartphone;Personal;43;5802;899;375;Personal Products;8914;3490;2693;4
+Smartphone;Personal;44;5935;899;369;Personal Products;8608;3959;3092;4.1
+Smartphone;Personal;45;6000;899;374;Personal Products;8818;3510;2705;4
+Smartphone;Personal;46;6171;899;353;Personal Products;8743;3618;2826;3.9
+Smartphone;Personal;47;6391;899;363;Personal Products;9019;3697;2936;3.9
+Smartphone;Personal;48;6545;899;368;Personal Products;8690;3872;3042;4.1
+Smartphone;Personal;49;6681;899;352;Personal Products;8424;3878;3090;3.9
+Smartphone;Personal;50;6853;899;361;Personal Products;8549;3809;3052;3.9
+Smartphone;Personal;51;6968;899;355;Personal Products;8826;4650;3729;3.9
+Smartphone;Personal;52;7105;899;374;Personal Products;8325;4032;3156;4.1
+Tablet;Personal;1;2099;549;239;Personal Products;8655;1340;731;4.3
+Tablet;Personal;2;2108;549;240;Personal Products;8865;1309;745;4.4
+Tablet;Personal;3;2121;549;201;Personal Products;9144;1531;877;4.2
+Tablet;Personal;4;2128;549;225;Personal Products;9105;1427;843;4.2
+Tablet;Personal;5;2130;549;204;Personal Products;9133;1392;748;4.4
+Tablet;Personal;6;2134;549;236;Personal Products;9117;1451;820;4.3
+Tablet;Personal;7;2148;549;209;Personal Products;8826;1417;779;4.3
+Tablet;Personal;8;2166;549;253;Personal Products;8321;1444;805;4.2
+Tablet;Personal;9;2173;549;241;Personal Products;8425;1493;870;4.3
+Tablet;Personal;10;2186;549;223;Personal Products;8386;1374;779;4.2
+Tablet;Personal;11;2190;549;206;Personal Products;9153;1496;923;4.3
+Tablet;Personal;12;2211;549;226;Personal Products;9170;1441;814;4.3
+Tablet;Personal;13;2226;549;244;Personal Products;8442;1576;942;4.3
+Tablet;Personal;14;2229;549;233;Personal Products;8691;1549;930;4.2
+Tablet;Personal;15;2241;549;221;Personal Products;8345;1390;792;4.4
+Tablet;Personal;16;2251;549;230;Personal Products;9036;1585;919;4.4
+Tablet;Personal;17;2258;549;223;Personal Products;9130;1411;822;4.3
+Tablet;Personal;18;2261;549;218;Personal Products;9001;1446;887;4.3
+Tablet;Personal;19;2274;549;223;Personal Products;8672;1451;810;4.4
+Tablet;Personal;20;2282;549;249;Personal Products;8471;1554;932;4.2
+Tablet;Personal;21;2298;549;247;Personal Products;8945;1409;809;4.4
+Tablet;Personal;22;2299;549;222;Personal Products;8972;1628;966;4.4
+Tablet;Personal;23;2312;549;243;Personal Products;9134;1298;759;4.4
+Tablet;Personal;24;2318;549;242;Personal Products;8322;1510;886;4.4
+Tablet;Personal;25;2337;549;226;Personal Products;8397;1400;842;4.2
+Tablet;Personal;26;2341;549;231;Personal Products;8507;1472;820;4.2
+Tablet;Personal;27;2351;549;203;Personal Products;8478;1436;881;4.3
+Tablet;Personal;28;2358;549;235;Personal Products;8772;1454;863;4.2
+Tablet;Personal;29;2358;549;254;Personal Products;8496;1486;931;4.4
+Tablet;Personal;30;2363;549;245;Personal Products;9242;1355;787;4.4
+Tablet;Personal;31;2369;549;205;Personal Products;8421;1460;839;4.4
+Tablet;Personal;32;2380;549;224;Personal Products;8331;1566;896;4.3
+Tablet;Personal;33;2381;549;227;Personal Products;8956;1553;938;4.3
+Tablet;Personal;34;2392;549;240;Personal Products;8650;1580;960;4.3
+Tablet;Personal;35;2408;549;249;Personal Products;9210;1630;992;4.2
+Tablet;Personal;36;2419;549;249;Personal Products;9217;1478;859;4.2
+Tablet;Personal;37;2437;549;243;Personal Products;8533;1440;845;4.1
+Tablet;Personal;38;2444;549;206;Personal Products;8687;1535;938;4
+Tablet;Personal;39;2446;549;202;Personal Products;8971;1580;966;4
+Tablet;Personal;40;2419;549;227;Personal Products;8792;643;420;3.9
+Tablet;Personal;41;2402;549;214;Personal Products;8612;710;424;4
+Tablet;Personal;42;2382;549;243;Personal Products;9045;514;263;3.9
+Tablet;Personal;43;2341;549;250;Personal Products;9046;590;314;3.7
+Tablet;Personal;44;2277;549;212;Personal Products;8794;1018;485;3.8
+Tablet;Personal;45;2251;549;247;Personal Products;8390;619;375;3.6
+Tablet;Personal;46;2203;549;212;Personal Products;8452;731;410;4
+Tablet;Personal;47;2183;549;209;Personal Products;9051;680;425;3.9
+Tablet;Personal;48;2183;549;218;Personal Products;8744;512;247;3.7
+Tablet;Personal;49;2183;549;229;Personal Products;8918;506;277;3.8
+Tablet;Personal;50;2163;549;228;Personal Products;9242;659;392;4
+Tablet;Personal;51;2112;549;230;Personal Products;8304;535;240;3.8
+Tablet;Personal;52;2088;549;234;Personal Products;8915;583;328;3.7
+Tablet Pro;Personal;1;700;749;287;Personal Products;7790;804;254;3.7
+Tablet Pro;Personal;2;703;749;288;Personal Products;7979;785;258;3.8
+Tablet Pro;Personal;3;707;749;241;Personal Products;8230;919;302;3.6
+Tablet Pro;Personal;4;709;749;270;Personal Products;8195;856;291;3.6
+Tablet Pro;Personal;5;710;749;245;Personal Products;8220;835;259;3.8
+Tablet Pro;Personal;6;711;749;283;Personal Products;8205;871;283;3.7
+Tablet Pro;Personal;7;716;749;251;Personal Products;7943;850;270;3.7
+Tablet Pro;Personal;8;722;749;304;Personal Products;7489;866;278;3.6
+Tablet Pro;Personal;9;724;749;289;Personal Products;7583;896;300;3.7
+Tablet Pro;Personal;10;729;749;268;Personal Products;7547;824;270;3.6
+Tablet Pro;Personal;11;730;749;247;Personal Products;8238;898;318;3.7
+Tablet Pro;Personal;12;737;749;271;Personal Products;8253;865;281;3.7
+Tablet Pro;Personal;13;742;749;293;Personal Products;7598;946;324;3.7
+Tablet Pro;Personal;14;743;749;280;Personal Products;7822;929;320;3.6
+Tablet Pro;Personal;15;747;749;265;Personal Products;7511;834;274;3.8
+Tablet Pro;Personal;16;750;749;276;Personal Products;8132;951;316;3.8
+Tablet Pro;Personal;17;753;749;268;Personal Products;8217;847;284;3.7
+Tablet Pro;Personal;18;754;749;262;Personal Products;8101;868;306;3.7
+Tablet Pro;Personal;19;758;749;268;Personal Products;7805;871;280;3.8
+Tablet Pro;Personal;20;761;749;299;Personal Products;7624;932;321;3.6
+Tablet Pro;Personal;21;766;749;296;Personal Products;8051;845;280;3.8
+Tablet Pro;Personal;22;766;749;266;Personal Products;8075;977;332;3.8
+Tablet Pro;Personal;23;771;749;292;Personal Products;8221;779;263;3.8
+Tablet Pro;Personal;24;773;749;290;Personal Products;7490;906;305;3.8
+Tablet Pro;Personal;25;779;749;271;Personal Products;7557;840;291;3.6
+Tablet Pro;Personal;26;780;749;277;Personal Products;7656;883;283;3.6
+Tablet Pro;Personal;27;784;749;244;Personal Products;7630;862;304;3.7
+Tablet Pro;Personal;28;786;749;282;Personal Products;7895;872;298;3.6
+Tablet Pro;Personal;29;786;749;305;Personal Products;7646;892;320;3.8
+Tablet Pro;Personal;30;788;749;294;Personal Products;8318;813;272;3.8
+Tablet Pro;Personal;31;790;699;246;Personal Products;7579;876;290;3.8
+Tablet Pro;Personal;32;793;699;269;Personal Products;7498;940;309;3.7
+Tablet Pro;Personal;33;794;699;272;Personal Products;8060;932;323;3.7
+Tablet Pro;Personal;34;797;699;288;Personal Products;7785;948;330;3.7
+Tablet Pro;Personal;35;803;699;299;Personal Products;8289;978;341;3.6
+Tablet Pro;Personal;36;806;699;299;Personal Products;8295;887;296;3.6
+Tablet Pro;Personal;37;812;699;292;Personal Products;7680;864;292;3.5
+Tablet Pro;Personal;38;815;699;247;Personal Products;7818;921;323;3.4
+Tablet Pro;Personal;39;815;699;242;Personal Products;8074;948;332;3.4
+Tablet Pro;Personal;40;806;699;272;Personal Products;7913;386;150;3.3
+Tablet Pro;Personal;41;801;699;257;Personal Products;7751;426;151;3.4
+Tablet Pro;Personal;42;794;699;292;Personal Products;8141;308;98;3.3
+Tablet Pro;Personal;43;780;699;300;Personal Products;8141;354;115;3.8
+Tablet Pro;Personal;44;759;699;254;Personal Products;7915;611;172;3.7
+Tablet Pro;Personal;45;750;699;296;Personal Products;7551;371;135;3.7
+Tablet Pro;Personal;46;734;699;254;Personal Products;7607;439;147;3.7
+Tablet Pro;Personal;47;728;699;251;Personal Products;8146;408;152;3.6
+Tablet Pro;Personal;48;728;699;262;Personal Products;7870;307;92;3.6
+Tablet Pro;Personal;49;728;699;275;Personal Products;8026;304;102;3.5
+Tablet Pro;Personal;50;721;699;274;Personal Products;8318;395;141;3.4
+Tablet Pro;Personal;51;704;699;276;Personal Products;7474;321;90;3.4
+Tablet Pro;Personal;52;696;699;281;Personal Products;8024;350;119;3.7
